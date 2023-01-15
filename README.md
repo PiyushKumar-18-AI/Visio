@@ -27,13 +27,21 @@ And for this application we received 3rd Position in Bennett University's Projec
 
 ***** 
 
-Object detection and image detection are popular features in iOS development. They allow developers to create applications that can detect and recognize objects or images in real-time.
+<b><i>Object detection and Image Detection in iOS Development</b></i>
+
+Object detection and Image Detection are popular features in iOS development. They allow developers to create applications that can detect and recognize objects or images in real-time.
 
 There are several frameworks and libraries available for iOS development that can be used for object and image detection, such as Core ML, Vision Framework, and TensorFlow Lite.
 
-Core ML: Core ML is an Apple framework that allows developers to integrate machine learning models into iOS, iPadOS, macOS, and watchOS applications. It provides pre-trained models for object detection and image detection, which can be used to create applications that can detect and recognize objects or images.
+* Core ML: Core ML is an Apple framework that allows developers to integrate machine learning models into iOS, iPadOS, macOS, and watchOS applications. It provides pre-trained models for object detection and image detection, which can be used to create applications that can detect and recognize objects or images.
 
-Vision Framework: The Vision Framework is a set of computer vision libraries that can be used to detect and track objects and images. It provides several features such as object tracking, face detection, barcode detection, and image registration.
+* Vision Framework: The Vision Framework is a set of computer vision libraries that can be used to detect and track objects and images. It provides several features such as object tracking, face detection, barcode detection, and image registration.
+
+* TensorFlow Lite: TensorFlow Lite is a lightweight version of TensorFlow, an open-source machine learning library. It can be used to train machine learning models and deploy them on iOS devices. Developers can use TensorFlow Lite to create object detection and image recognition applications for iOS.
+
+These frameworks and libraries can be used to create a wide range of applications such as real-time object detection in images or videos, image recognition, and object tracking. They can also be used to build features such as facial recognition, barcode scanning, and object tracking.
+
+In summary, object detection and image detection are popular features in iOS development that can be implemented using Core ML, Vision Framework and TensorFlow Lite frameworks. These frameworks can be used to create a wide range of applications such as real-time object detection in images or videos, image recognition and object tracking.
 
 
 
